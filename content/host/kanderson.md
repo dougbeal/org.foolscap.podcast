@@ -1,30 +1,27 @@
 +++
-title = "Douglas Beal"
-date = 2019-02-22T20:31:49-08:00
-draft = false
+Title = "Karen Anderson"
+Date = 2019-02-25T13:07:49-08:00
+
 Type = "host"
-Position = "Captain"
 Thumbnail = ""
-Website = "https://dougbeal.com"
-
-
-Facebook = "dougbeal.2357111317192329313741434753596167717379"
+#Aka = []
+Facebook = "" # username only
 Flickr = "" # username only
 GitHub = "" # username only
-Instagram = "murderofcro.ws"
+Instagram = "" # username only
 Linkedin = "" # username only
-
 Microdotblo = "" # username only
 Pinterest = "" # username only??
-Twitter = "murderofcrows"
+Twitter = "" # username only
 YouTube = "" # username only
 
 kofi = "" # username only
 patreon = "" # username only
 
-Mastodon = "https://xoxo.zone/@dougbeal"
+Mastodon = ""  # full url
+Website = "" # full url or array of urls
 author_hcard = "" # full url
-email = "captain_dougbeal@foolscap.org" # address
+email = "" # address
 podcast_website = "" # full url or array of urls
-+++
 
++++
