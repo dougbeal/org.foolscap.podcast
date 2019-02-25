@@ -1,0 +1,3 @@
+[submodule "themes/catanet"]
+	path = themes/castanet
+	url = https://github.com/foolscapcon/castanet.git
